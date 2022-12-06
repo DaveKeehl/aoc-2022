@@ -36,3 +36,10 @@ Here are my solutions for the Advent of Code 2022 edition. I used [TypeScript](h
 - [Day 5: Input](/day-5/input.txt)
 - [Part 1: Solution](/day-5/part-1.ts)
 - [Part 2: Solution](/day-5/part-2.ts)
+
+#### Day 6 - Tuning Trouble
+
+- [Day 6: Problem](https://adventofcode.com/2022/day/6)
+- [Day 6: Input](/day-6/input.txt)
+- [Part 1: Solution](/day-6/part-1.ts)
+- [Part 2: Solution](/day-6/part-2.ts)
