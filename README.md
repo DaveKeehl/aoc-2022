@@ -43,3 +43,10 @@ Here are my solutions for the Advent of Code 2022 edition. I used [TypeScript](h
 - [Day 6: Input](/day-6/input.txt)
 - [Part 1: Solution](/day-6/part-1.ts)
 - [Part 2: Solution](/day-6/part-2.ts)
+
+#### Day 8 - Treetop Tree House
+
+- [Day 8: Problem](https://adventofcode.com/2022/day/8)
+- [Day 8: Input](/day-8/input.txt)
+- [Part 1: Solution](/day-8/part-1.ts)
+- [Part 2: Solution](/day-8/part-2.ts)
