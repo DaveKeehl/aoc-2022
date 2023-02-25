@@ -1,16 +1,7 @@
 const text = await Deno.readTextFile('./input.txt');
-const sample = `
-R 4
-U 4
-L 3
-D 1
-R 4
-D 1
-L 5
-R 2
-`.trim();
+// const sample = await Deno.readTextFile('./sample.txt');
 
-const input = sample;
+const input = text;
 
 type Position = [number, number];
 type Direction = 'L' | 'R' | 'U' | 'D';

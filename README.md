@@ -56,3 +56,9 @@ Here are my solutions for the Advent of Code 2022 edition. I used [TypeScript](h
 - [Day 9: Problem](https://adventofcode.com/2022/day/9)
 - [Day 9: Input](/day-9/input.txt)
 - [Part 1: Solution](/day-9/part-1.ts)
+
+#### Day 10 - Cathode-Ray Tube
+
+- [Day 10: Problem](https://adventofcode.com/2022/day/10)
+- [Day 10: Input](/day-10/input.txt)
+- [Part 1: Solution](/day-10/part-1.ts)
